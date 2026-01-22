@@ -7,6 +7,3 @@ if __name__== '__main__':
     main()
 print('hello')
 print("hi")
-print("this is for testing")
-print("just casually")
-print("hi")
