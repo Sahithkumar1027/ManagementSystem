@@ -8,3 +8,4 @@ if __name__== '__main__':
 print('hello')
 print("hi")
 print("this is for testing")
+print("just casually")
